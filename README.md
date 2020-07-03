@@ -9,7 +9,7 @@ Include the date you created this project and README file.
 ### Project Title
 Replace the Project Title
 
-Data Exploration
+Data Exploration of three cities 
 
 ### Description
 Describe what your project is about and what it does
