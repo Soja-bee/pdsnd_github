@@ -34,3 +34,4 @@ It's important to give proper credit. Add links to any repo that inspired you or
 5.https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DatetimeIndex.dayofweek.html - automatic!
 6.https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DatetimeIndex.html - automatic!
 7.https://stackoverflow.com/questions/15741759/find-maximum-value-of-a-column-and-return-the-corresponding-row-values-using-pan - automatic!
+8.https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dt.hour.html - automatic!
